@@ -1,0 +1,20 @@
+{
+  "name": "wizard",
+  "main": "index.js",
+  "authors": [
+    "Jyasveer Gotta <jgotta@redhat.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "twitter-bootstrap-wizard": "^1.4.2"
+  }
+}
